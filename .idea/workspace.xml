@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21a8ccca-559b-4412-84f3-939679c7c465" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/demoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/demoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +29,64 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.demoTest.addRecord.executor": "Run",
+    "TestNG.demoTest.buttonClick.executor": "Run",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/emred/workspace/odev_Selenium_xpath/src/test/java",
     "onboarding.tips.debug.path": "C:/Users/emred/workspace/odev_Selenium_xpath/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\emred\workspace\odev_Selenium_xpath\src\test\java" />
+      <recent name="C:\Users\emred\workspace\odev_Selenium_xpath\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.demoTest.addRecord">
+    <configuration name="demoTest.addRecord" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="odev_Selenium_xpath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.demoTest" />
+      <option name="METHOD_NAME" value="addRecord" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demoTest.buttonClick" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="odev_Selenium_xpath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.demoTest" />
+      <option name="METHOD_NAME" value="buttonClick" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.demoTest.addRecord" />
+        <item itemvalue="TestNG.demoTest.buttonClick" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
